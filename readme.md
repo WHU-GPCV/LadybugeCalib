@@ -1,11 +1,11 @@
 
 # ladybug 检校
-LadybugCalib实现导出ladybug全景相机内参(等距投影+畸变参数)的功能。服务于pano-slam系统。
+LadybugCalib实现导出ladybug全景相机内参(等距投影+畸变参数)的功能。服务于pano-slam系统。(WIN Version)[https://github.com/jiangfanfly/ladybugexin]
+
 ## 源代码
 需先配置第三方依赖库：Eigen、ceres  
 
 ## 可执行程序
-
 运行环境：ubuntu 18.04, ubuntu 16.04
 运行./LBCalib   Dir_path_D2U   Dir_path_U2D
 
