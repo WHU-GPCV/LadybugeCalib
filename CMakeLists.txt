@@ -47,9 +47,10 @@ ${CERES_LIBRARIES}
 )
 
 # Build examples
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/output)
-
 add_executable(LBCalib
 src/L_Genreate_INEX.cpp)
 target_link_libraries(LBCalib ${PROJECT_NAME})
 
+add_executable(LB_Ex
+src/Genreate_EX.cpp)
+target_link_libraries(LB_Ex ${PROJECT_NAME})

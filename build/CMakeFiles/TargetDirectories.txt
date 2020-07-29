@@ -1,0 +1,5 @@
+/home/cjg/LadybugeCalib/build/CMakeFiles/edit_cache.dir
+/home/cjg/LadybugeCalib/build/CMakeFiles/rebuild_cache.dir
+/home/cjg/LadybugeCalib/build/CMakeFiles/LadybugCalib.dir
+/home/cjg/LadybugeCalib/build/CMakeFiles/LB_Ex.dir
+/home/cjg/LadybugeCalib/build/CMakeFiles/LBCalib.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cjg/LadybugeCalib/src/Genreate_EX.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+dirent.h
+-
+string
+-
+vector
+-
+iterator
+-
+regex
+-
+
