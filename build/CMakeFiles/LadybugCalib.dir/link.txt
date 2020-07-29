@@ -1,2 +1,0 @@
-/usr/bin/ar qc libLadybugCalib.a  
-/usr/bin/ranlib libLadybugCalib.a
